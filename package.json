@@ -1,0 +1,14 @@
+{
+  "name": "node-server-assets-loading",
+  "version": "1.0.0",
+  "description": "a node project to run a node serverserving assets",
+  "main": "src/server.js",
+  "author": "chivalryytf",
+  "license": "MIT",
+  "scripts": {
+    "serve": "node src/server.js"
+  },
+  "dependencies": {
+    "mime": "^2.5.2"
+  }
+}
